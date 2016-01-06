@@ -37,6 +37,9 @@ Personal:
     * Experience working on a multi-person development team
     * Familiarity with issue tracker workflow
 
+Apply Anyway
+------------
+
 Remember, you don't have to meet every single item listed in a job description
 to get an interview. 
 
@@ -51,10 +54,15 @@ example, someone who's never used Jenkins might still understand the
 principles of continuous integration testing from working on a project that
 uses BuildBot or TravisCI. 
 
-Once you've identified the job you want and the skills you'll need to
-demonstrate to impress your interviewers for it, your next course of action
-will vary based on how many publicly brag-able projects you've been involved
-with recently. 
+If you're applying to a larger company, they probably have an entire
+department and comprehensive screening process to make sure they don't hire
+any candidate unable to succeed in a role. That means it's your job to apply,
+and their job to decide whether to reject you. Don't prematurely reject
+yourself from the job by refusing to apply. 
+
+Now you have an idea of what job you want, and what skills you'll need to
+demonstrate to impress your interviewers. The next steps to take will vary
+based on how much experience you've already got.
 
 Tailoring existing involvement
 ------------------------------
@@ -164,4 +172,50 @@ a new skill!
 
 [TODO: links to getting started guides]
 
+[TODO: Sentence explaining how to use Openhatch]
 
+Make your Resume Beautiful
+--------------------------
+
+A resume's beauty comes from conciseness, clarity, and layout. Each piece of
+experience should be accompanied by enough information for a reader to
+immediately know why you included it, but not more. Each type of information
+should be formatted consistently through the document -- it's distracting to
+have some dates italicized or right-aligned and others not. 
+
+Typeset your resume using a tool that makes these goals easy to achieve. I
+enjoy using LaTeX, since its macro system makes visual consistency easy and
+most interviewers recognize it immediately. Your tool of choice might be
+LibreOffice Writer or Markdown, depending on your skills and how you want to
+distribute your resume. 
+
+Remember that a digitally submitted resume might be scanned for keywords, so
+it can help to use the same acronyms as the job posting when describing your
+experiences. To make your resume easy for your interviewer to use, place the
+most important information first. 
+
+Coders often struggle to quantify balance and layout when typesetting a
+document. My favorite technique for stepping back and assessing whether my
+document's whitespace is in the right place is to fullscreen the PDF or print
+it out, then look at it in a mirror. If you're using LibreOffice Writer, save
+a copy of your resume then change the font to that of a language you can't
+read. Both of these techniques forcibly pull you out of reading the content,
+and allow you to see the overall layout of the document in a new light. They
+take you from a "That sentence is poorly worded!" critique to noticing things
+like "It looks funny to have only a single word on that line". 
+
+Finally, double check that your resume displays correctly in the mediums where
+it will be seen. If you're distributing it as a web page, test it at different
+screen widths in multiple browsers. If it's a PDF, open it on your phone or a
+less-technical friend's computer to make sure all the fonts it needs are
+available. 
+
+Next Steps
+----------
+
+Finally, don't let the content that you worked so hard on for your resume go
+to waste! Mirror it to your LinkedIn account, complete with the buzzwords from
+the job posting, and don't be surprised if recruiters start reaching out to
+you. Even if the jobs they're describing aren't a good fit right now, you can
+leverage their time and interest to get feedback on what's working well about
+your resume and what isn't. 
