@@ -6,18 +6,18 @@ in the technology field.
 
 No goal can be accomplished without first being set. Before jumping into a new
 commitment or spending the evening overhauling your resume, it pays to clearly
-define the traits of the job you're hunting for. Your resume is a piece of
+define the traits of the job you're seeking. Your resume is a piece of
 persuasive writing, so you have to know your audience for it to reach its full
 potential. Your resume's audience is anyone with the need for your skills and
-the budget to hire you, so when editing, read your resume while imagining what
+the budget to hire you. When editing, read your resume while imagining what
 it's like to be in their position. Do you look like a candidate that you would
 hire? 
 
-I personally find it helpful to make a list of the key traits that I think the
+I personally find it helpful to make a list of the key traits that the
 ideal candidate for my target job diplays. I gather this list from a
 combination of personal experience, reading job postings, and asking
 colleagues in similar roles. LinkedIn and conferences are great places to find
-people happy to offer this sort of advice: Many people enjoy talking about
+people happy to offer this sort of advice. Many people enjoy talking about
 themselves, and inviting them to tell part of their own story in order to help
 expand your knowledge makes everyone feel good. As you talk to others about
 their career paths, you'll gain insights not only into what gives people the
@@ -29,26 +29,26 @@ For example, the list of key traits for a junior role might look like:
 Technical: 
     * Experience with CI, Jenkins preferred
     * Strong scripting background in Python & Ruby
-    * Familiarity with Eclipse IDE
+    * Familiarity with Eclipse the IDE
     * Basic Git and Bash
 Personal: 
     * Self-directed learner
     * Clear communication and documentation skills
-    * Experience working on a multi-person development team
+    * Experience working on a multi-person development team ("team player")
     * Familiarity with issue tracker workflow
 
 Apply Anyway
 ------------
 
-Remember, you don't have to meet every single item listed in a job description
+Remember, you don't have to meet every single criterion listed in a job description
 to get an interview. 
 
 [TODO: link that research about how people apply with only ~80% of qualifications]
 
-The description describes whoever left the role, and if
+The job description describes whoever left the role, and if
 you start out knowing everything, you've likely signed yourself up for a few
 years that don't challenge or expand your skill set. If you're nervous about
-missing a particular technology that they list, do some research into it to
+missing a particular technology on the list, do some research into it to
 see whether comparable skills from another experience would apply. For
 example, someone who's never used Jenkins might still understand the
 principles of continuous integration testing from working on a project that
@@ -61,7 +61,7 @@ and their job to decide whether to reject you. Don't prematurely reject
 yourself from the job by refusing to apply. 
 
 Now you have an idea of what job you want, and what skills you'll need to
-demonstrate to impress your interviewers. The next steps to take will vary
+impress your interviewers. The next steps to take will vary
 based on how much experience you've already got.
 
 Tailoring existing involvement
@@ -72,14 +72,14 @@ past few years. One way to get a quick list of things you've worked on lately
 is to navigate to the 'repositories' tab of your GitHub profile, and filter
 the list by clicking on 'Forks'. Additionally, look down your Organizations
 list at https://github.com/settings/organizations for places you might have
-been engaging in leadership experience. 
+been engaging in leadership roles. 
 
 If you have an existing resume, make sure each item of experience from it is
 on the list as well. 
 
 Consider any IRC channel where you have special permissions as a potential
-leadership experience. Check your Meetup or Eventbrite accounts and add any
-events that you organize or volunteer at to this list. Skim your calendar for
+leadership experience. Check your Meetup and Eventbrite accounts and add any
+events that you organize or volunteer at to your list. Skim your calendar for
 the past year and note any volunteering, mentoring, or public speaking
 engagements. 
 
@@ -90,7 +90,7 @@ demonstrated the trait. When in doubt, claim it anyway -- your problem is more
 likely a reluctance to brag than actual incompetence. 
 
 This is the point in the process at which resume writers are often fettered by
-a reluctance to risk overselling their own skills. It often helps to re-frame
+reluctance to risk overselling their own skills. It often helps to re-frame
 the question as "Did someone who organized a meetup show leadership and
 planning skills?" rather than "Did *I* personally show these skills when I
 organized that meetup?".
@@ -100,7 +100,7 @@ gone for the past year or two and you code a lot, you might now be facing a
 surprising problem: Too many items to fit on a single-page resume! If anything
 on your list of experiences didn't demonstrate any of the skills you're trying
 to showcase, cross it off. If an item demonstrates few skills and you don't
-have any stories you enjoy telling about it, cross it off. If this abridged
+have any stories that you enjoy telling about it, cross it off. If this abridged
 list of things you've done still won't fit in the format of a resume,
 prioritize the experiences from which you gained either a story that you're
 comfortable telling which showcases a desired skill, or extensive experience
@@ -111,7 +111,7 @@ Joining a New Project
 
 Maybe you're not involved with open source yet, or your dream job requires a
 language or skill that you haven't touched before. Open source can be a great
-place to both build and publicly showcase new skills, if you go in with the
+place to both build and publicly demonstrate new skills, if you go in with the
 right expectations! However, if you ignore basic manners or mistreat a
 project, open source involvement can also be a place to publicly diminish your
 own reputation. Here are some of the expectations that could get you in
@@ -138,7 +138,7 @@ interview you on extremely advanced topics relating to the project.
 
 I've heard a delightful piece of folklore about an arrogant young coder who
 claimed decades of experience contributing to Python core on his resume and
-scored an interview, and ended up getting quizzed on the quirks of the
+scored an interview. He ended up getting quizzed on the quirks of the
 language's internals by Guido Van Rossum.
 
 Myth: I'll just fork the project and make my changes there! Nobody will
@@ -146,7 +146,7 @@ criticize my code, and I'll look like a leader for taking the initiative to
 make a fork!
 
 Fact: No. Do you really want to work in a culture that encourages people to
-avoid code review, and thinks avoiding the community to make themselves look
+avoid code review, and thinks avoiding the community to make oneself look
 good is a desirable thing to do? 
 
 
@@ -155,12 +155,12 @@ attempting to take advantage of a project for your own gain will not improve
 your skills or reputation. 
 
 The good news is that it's easy to find a project by the language or tools
-that it uses! There are a bunch (http://edunham.net/pages/issue_aggregators.html) of 
-issue aggregator type sites out there, each of which caters to a slightly
-different audience. If you're joining a project specifically to build a skill
-which aids your job hunt, I'd recommend starting no less than 3-6 months
-before you want to have code you're proud of that shows you understand the
-basics of the language. If it's only your second or third language and you're
+that it uses! There are a variety
+(http://edunham.net/pages/issue_aggregators.html) of issue aggregator type
+sites available, each of which caters to a slightly different audience. If
+you're joining a project specifically to build a skill which aids your job
+hunt, I'd recommend starting no less than 3-6 months before you want to have
+code you're proud of. If it's only your second or third language and you're
 not using it full time, it could take you over a year to reach intermediate
 proficiency. Fortunately, you can hone the skill of learning new tools until
 it takes only a couple weeks of focused study to get up to speed in a language
@@ -186,7 +186,7 @@ have some dates italicized or right-aligned and others not.
 Typeset your resume using a tool that makes these goals easy to achieve. I
 enjoy using LaTeX, since its macro system makes visual consistency easy and
 most interviewers recognize it immediately. Your tool of choice might be
-LibreOffice Writer or Markdown, depending on your skills and how you want to
+LibreOffice Writer or HTML, depending on your skills and how you want to
 distribute your resume. 
 
 Remember that a digitally submitted resume might be scanned for keywords, so
@@ -204,11 +204,10 @@ and allow you to see the overall layout of the document in a new light. They
 take you from a "That sentence is poorly worded!" critique to noticing things
 like "It looks funny to have only a single word on that line". 
 
-Finally, double check that your resume displays correctly in the mediums where
+Finally, double check that your resume displays correctly in the media where
 it will be seen. If you're distributing it as a web page, test it at different
 screen widths in multiple browsers. If it's a PDF, open it on your phone or a
-less-technical friend's computer to make sure all the fonts it needs are
-available. 
+friend's computer to make sure all the fonts it needs are available. 
 
 Next Steps
 ----------
