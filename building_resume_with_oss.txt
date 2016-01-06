@@ -1,6 +1,6 @@
 Building your Resume with Open Source
 
-In this article, I'll share my technique for leveraging new or current open
+In this article, I'll share my technique for leveraging open
 source contributions to stand out as a great candidate for my desired job
 in the technology field. 
 
@@ -106,73 +106,10 @@ prioritize the experiences from which you gained either a story that you're
 comfortable telling which showcases a desired skill, or extensive experience
 with a desired technology.  
 
-Joining a New Project
----------------------
-
-Maybe you're not involved with open source yet, or your dream job requires a
-language or skill that you haven't touched before. Open source can be a great
-place to both build and publicly demonstrate new skills, if you go in with the
-right expectations! However, if you ignore basic manners or mistreat a
-project, open source involvement can also be a place to publicly diminish your
-own reputation. Here are some of the expectations that could get you in
-trouble: 
-
-Myth: I'll just join this project's IRC channel and they'll teach me to
-code, and I won't have to do any hard work like reading a book!
-
-Fact: That's the attitude of a help vampire, and most thriving communities
-are good at getting rid of them. You'll be politely asked to go read the
-documentation. 
-
-[TODO: link to help vampire thing]
-
-Myth: I got a couple of lines into the code base, so I can claim to be a core
-contributor without any ill effects! (Or, I wrote a project in this language,
-so I can claim that I work on the lanuage itself!)
-
-Fact: While this type of claim may successfully swindle HR and get you in the
-door, your interview is likely to be horribly embarrassing. At best your
-future boss will fact-check your claims by consulting the project's web site
-and asking their peers; at worst, they'll take your claims at face value and
-interview you on extremely advanced topics relating to the project. 
-
-I've heard a delightful piece of folklore about an arrogant young coder who
-claimed decades of experience contributing to Python core on his resume and
-scored an interview. He ended up getting quizzed on the quirks of the
-language's internals by Guido Van Rossum.
-
-Myth: I'll just fork the project and make my changes there! Nobody will
-criticize my code, and I'll look like a leader for taking the initiative to
-make a fork!
-
-Fact: No. Do you really want to work in a culture that encourages people to
-avoid code review, and thinks avoiding the community to make oneself look
-good is a desirable thing to do? 
-
-
-In short, while joining a new project can help boost your skills and resume,
-attempting to take advantage of a project for your own gain will not improve
-your skills or reputation. 
-
-The good news is that it's easy to find a project by the language or tools
-that it uses! There are a variety
-(http://edunham.net/pages/issue_aggregators.html) of issue aggregator type
-sites available, each of which caters to a slightly different audience. If
-you're joining a project specifically to build a skill which aids your job
-hunt, I'd recommend starting no less than 3-6 months before you want to have
-code you're proud of. If it's only your second or third language and you're
-not using it full time, it could take you over a year to reach intermediate
-proficiency. Fortunately, you can hone the skill of learning new tools until
-it takes only a couple weeks of focused study to get up to speed in a language
-similar to those you already know.
-
-Once you've found a project with a welcoming community (often indicated by at
-least a CONTRIBUTING guide and a code of conduct), go forth and enjoy learning
-a new skill! 
-
-[TODO: links to getting started guides]
-
-[TODO: Sentence explaining how to use Openhatch]
+At this point, it should be obvious if you need a better piece of experience
+to hone a particular skill. Consider using an issue aggregator like
+openhatch.com to find an open source project where you build and practice your
+skills with the tool or technology that you're missing. 
 
 Make your Resume Beautiful
 --------------------------
