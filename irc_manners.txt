@@ -1,0 +1,64 @@
+IRC is a great big social gathering on the internet.
+
+Unless the channel topic makes an exception, don't speak within 5min of
+joining. This is because there might be a conversation going on, and it's
+impolite to interrupt. 
+
+If you're asking for help, imagine what information you would need to help
+someone with a similar problem, and offer that information up front. It makes
+extra work and wastes peoples' time to force them to drag the information out
+of you -- so they probably won't. This is why "I have a problem" questions sit
+unanswered. 
+
+Another way of wasting peoples' time by forcing them to drag information out
+of you is to ask for specific help in applying the tool to a extremely
+specialized use case, especially that of a solved problem. If you've Googled
+the question and all the other people who ask it have been pointed toward a
+different technology, please plan to present a clear and sensible reason why
+the correct solution won't work. The Python community summarizes this type of
+XY problem with an anecdote about grandmothers and chainsaws. 
+
+Address people correctly. Do not include the symbol before their name; it's a
+"hat" which signifies the permissions they have in the channel. Use tab
+completion to ensure that you spell peoples' handles correctly. If referring
+to someone in the third person, don't assume you know which pronouns they
+prefer -- It's far safer to say "jsmith pointed me to this post on their blog
+when I asked earlier" than "jsmith showed me his blog" and find that the J in
+fact belongs to a Jane Smith who prefers female pronouns. If an IRC user wants
+you to know a name they use other than their IRC handle, you can use /whois to
+see that information.
+
+Entering an IRC channel is like walking into someone's home, office, or
+classroom. You don't usually know what kind of room you're entering until
+you've joined, so pause, look around (your client will helpfully show you a
+list of users in the channel and the topic. Read the links in the topic.
+Understand what they are and what they do, and imagine the errors committed by
+newbies which caused them to be added. 
+
+If you're capable of using your IRC client's basic features, it's often
+nonsensical to ask "is anyone online?" in the channel. If you want to know how
+many people are connected to the channel, use /list. If you have a question,
+ask it. If you just want to chat, connect to several offtopic/chat channels
+and watch the discussion until there's a general conversation where you have
+something to add, then add it. If you want to start a conversation in your
+favorite chat channel, why not do so by asking a thought-provoking question
+(even "would you rather fight 100 duck-sized horses or 1 horse-sized duck")
+rather than passively demanding that someone else come along and entertain
+you?
+
+
+
+
+The Unanswered Questions of IRC: 
+
+"I have a problem". 
+
+"Does anybody here know about Git?"
+
+"What's this channel for? Is there a website?"
+
+"$THING doesn't work"
+
+"Join my network!"
+
+"is anybody here?"
